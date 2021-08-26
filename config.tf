@@ -1,8 +1,8 @@
 provider "aws" {
 
-access_key = "ASIA4WFV7BJZC2BANNS7"
+access_key = "<aws-access_key>"
 
-secret_key = "K3hZnXl9s16fVFLntkrQhv1/gaV36wyv95SF7Ele"
+secret_key = "<aws_secret_key>"
 
 token= "FwoGZXIvYXdzEC4aDL2WZQzoJUtYq5pr6iLDAT3aEC1nX44WOH+d+5pdCn7WitgdC3NunvoZ7UwF0TSppLgDVign5DqScLWbJQoUkMUlhQVKUkBA50qqDPNS4NqrXRs14DMO4eBOHnVyhD9f6yd1bqHh8ozzTzrDs/7h2fE0lP8+alcqrZwIBIHUDD+Ma8rS4iuFO92GalSMgmQJaakDsPOriBpbTqvud+0M/MrgPpb95RAy02PzG8ZHZQqekumtqacY3TaHqhIIa02bF6/CEXsjEiqGoYzxYZdOF63TQCjGrJyJBjItzRlj8POOQRf+dOv7PQXFbSmTWwCB2m7zh7jnfhqnFONTG1ckmG0Gbrudr+/m"
 
