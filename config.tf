@@ -48,7 +48,7 @@ instance_type = "t2.micro"
 
 tags = {
 
-Name = "Centos-8-Stream"
+Name = "Ubuntu-Stream"
 
 }
 
